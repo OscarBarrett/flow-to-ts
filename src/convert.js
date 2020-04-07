@@ -18,7 +18,9 @@ const parseOptions = {
     "objectRestSpread",
     "dynamicImport",
     "optionalChaining",
-    "nullishCoalescingOperator"
+    "nullishCoalescingOperator",
+
+    "decorators-legacy"
   ]
 };
 
